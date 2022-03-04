@@ -1,0 +1,11 @@
+10
+s s s s s s s s s s
+s s s s s s s s s 0
+s 0 0 0 0 0 0 0 t t
+s 0 0 0 0 w w w 0 0
+s 0 0 0 0 0 0 0 0 0
+s s s s s s s s s 0
+s 0 0 0 0 0 0 0 t t
+s 0 0 0 0 w w w b 0
+s 0 0 0 0 0 0 0 P 0
+s 0 0 0 0 0 0 0 b 0
